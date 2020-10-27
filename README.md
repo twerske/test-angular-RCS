@@ -1,3 +1,13 @@
+# Updated to latest RC11 of Angular
+## My styles.scss isn't applying... still debugging this
+![broken homepage](https://p192.p3.n0.cdn.getcloudapp.com/items/rRuogkLQ/Screen%20Shot%202020-10-27%20at%2012.48.00%20PM.png?v=c642b55d1eec01014e2aad7f81a10b9f)
+
+### Also, oddly enough, the assets to the pony pic in these cards wasn't working initially.
+![broken pony image in cards](https://p192.p3.n0.cdn.getcloudapp.com/items/E0urX9n6/Screen%20Shot%202020-10-27%20at%2012.48.07%20PM.png?v=7a5dc974fd2c4bbed2c8258459eb7c84)
+
+### 👻 Spookily enough, opening VSCODE seemed to magically fix them. I literally didn't touch anything or do anything...
+![pony asset found?!?!](https://p192.p3.n0.cdn.getcloudapp.com/items/rRuogk0v/Screen%20Shot%202020-10-27%20at%2012.53.17%20PM.png?v=f1af49ed74eff8f568595af20bf05d1e)
+ 
 # Tour of Heroes — My Little Pony Flavored & Using Kendo UI! 
 
 ![kendoka for angular plus mlp](https://p192.p3.n0.cdn.getcloudapp.com/items/rRu7OBlg/Screen%20Shot%202020-08-27%20at%2012.53.56%20PM.png?v=a47c8028358bc533908f0b9545f14087 "kendoka plus my little pony logo")
